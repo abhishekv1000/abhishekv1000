@@ -1,12 +1,19 @@
+TECHNICAL SKILLS
 
-## Our Technologies
 
-Our products are built on top of modern frameworks. Having both coded and designed versions for the same framework ensures seamless collaboration between your designers and developers.
+Programming & Scripting – Python
+Web Technologies – HTML, CSS, JavaScript, Bootstrap, React Js, Node Js, Express Js, Restful Api, Postman
+Database – MySQL, MongoDB, PostgreSQL
+Cloud & DevOps – Linux, Git & GitHub, Bash Script, Docker, Jenkins, Agile, CI/CD 
+Others - Problem Solving, Object Oriented Programming(OOPS), Data Structures & Algorithms(DSA)
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="67.5px" alt="Python" />
-  
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" alt="Bootstrap" />
-  
-</p>
+Certification
+•	Python Certification, GeeksforGeeks
+•	Docker Certification, Simplilearn
+•	One Month Training at Innovaneers Technologies, Kanpur
+•	Angela Yu Web Development Certification, Udemy
+Achievement
+•	Academic Excellence Award in College
+•	Scored 488 Rank in JEECUP
+
 
