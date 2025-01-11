@@ -1,27 +1,3 @@
-Sure! Here's the modified version of the content for a Python, MERN (MongoDB, Express, React, Node.js), and PHP stack:
-
----
-
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
-
-Hi there ✋!  
-We are [Creative Tim](https://www.creative-tim.com/)  
-<img src="https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg" alt="Creative Tim Logo" />
-
-## About Us
-
-Creating your web design from scratch with dedicated designers can be very expensive. With our solutions, you don’t have to worry about design. Save time and money by focusing on the business model and using our free and premium design resources.
-
-## Our Expertise
-
-- **Create UI Frameworks**  
-  We’ve created tools that will help you with your next project. From plugins to complex UI kits, we’ve got you covered for all areas of front-end development.
-
-- **Share Freebies**  
-  Everything that we used to create our products can be downloaded for free under MIT License. Thousands of developers have already trusted and used them in projects worldwide.
-
-- **Power Hackathons**  
-  We sponsor hackathons globally, providing teams with the necessary tools to make awesome web applications. Our UI tools are tailored to startups and growing businesses.
 
 ## Our Technologies
 
